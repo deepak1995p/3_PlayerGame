@@ -1,4 +1,4 @@
-<script>
+
     var height1, height2, height3;
     var age1, age2, age3;
     var total1, total2, total3;
@@ -51,4 +51,4 @@
     } else {
         console.log("all player have the same value , hence its draw");
     }
-</script>
+
